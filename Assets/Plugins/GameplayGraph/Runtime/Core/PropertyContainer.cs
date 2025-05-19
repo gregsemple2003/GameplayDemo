@@ -3,7 +3,7 @@ using System.Collections.Concurrent;
 using System.Collections.Generic;
 using System.Reflection;
 
-namespace Agent.Core.Gameplay
+namespace GameplayGraph
 {
     /// <summary>
     /// Generic base container that exposes all properties decorated with

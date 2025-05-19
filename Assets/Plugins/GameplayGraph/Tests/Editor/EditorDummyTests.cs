@@ -1,6 +1,6 @@
 using NUnit.Framework;
 
-namespace GameplayGraph.Tests.Editor
+namespace GameplayGraph.Tests
 {
     public class EditorDummyTests
     {

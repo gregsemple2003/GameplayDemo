@@ -1,6 +1,6 @@
 using NUnit.Framework;
 
-namespace GameplayGraph.Tests.Runtime
+namespace GameplayGraph.Tests
 {
     public class NodeTests
     {

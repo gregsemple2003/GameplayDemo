@@ -1,6 +1,6 @@
 using System;
 
-namespace Agent.Core.Gameplay
+namespace GameplayGraph
 {
     [AttributeUsage(AttributeTargets.Property)]
     public class ContainerPropertyAttribute : Attribute

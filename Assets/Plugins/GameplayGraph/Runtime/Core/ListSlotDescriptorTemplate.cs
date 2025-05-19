@@ -1,6 +1,6 @@
 using System.Collections.Concurrent;
 
-namespace Agent.Core.Gameplay
+namespace GameplayGraph
 {
     /// <summary>
     /// Provides cached <see cref="ISlotDescriptor"/> instances for list based containers.

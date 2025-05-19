@@ -1,4 +1,4 @@
-namespace Agent.Core.Gameplay
+namespace GameplayGraph
 {
     /// <summary>
     /// Simple container of floating point stats.
