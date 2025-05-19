@@ -1,8 +1,8 @@
 using System;
-using Agent.Core.Gameplay;
+using GameplayGraph;
 using NUnit.Framework;
 
-namespace GameplayGraphTests
+namespace GameplayGraph.Tests
 {
     [TestFixture]
     public class StatsContainerTests

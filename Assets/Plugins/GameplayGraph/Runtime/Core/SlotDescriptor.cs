@@ -1,4 +1,4 @@
-namespace Agent.Core.Gameplay
+namespace GameplayGraph
 {
     public interface ISlotDescriptor
     {

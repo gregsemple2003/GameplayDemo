@@ -1,4 +1,4 @@
-namespace Agent.Core.Gameplay
+namespace GameplayGraph
 {
     /// <summary>
     /// Simple implementation of <see cref="ListContainer{T}"/> representing a list of items.

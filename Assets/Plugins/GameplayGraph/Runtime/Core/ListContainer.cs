@@ -1,7 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 
-namespace Agent.Core.Gameplay
+namespace GameplayGraph
 {
     /// <summary>
     /// Container backed by a dynamic list of values. Each item is exposed via a
