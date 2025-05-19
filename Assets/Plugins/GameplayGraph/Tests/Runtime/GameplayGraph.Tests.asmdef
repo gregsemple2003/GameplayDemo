@@ -1,0 +1,5 @@
+{
+  "name": "GameplayGraph.Tests",
+  "references": ["GameplayGraph"],
+  "testAssemblies": true
+}

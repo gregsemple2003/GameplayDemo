@@ -1,0 +1,6 @@
+{
+  "name": "GameplayGraph.Editor",
+  "references": ["GameplayGraph"],
+  "includePlatforms": ["Editor"],
+  "optionalUnityReferences": ["TestAssemblies"]
+}
