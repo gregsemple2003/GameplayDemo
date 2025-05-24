@@ -1,0 +1,19 @@
+{
+  "name": "GameplayGraph.Generator",
+  "rootNamespace": "GameplayGraph.Generator",
+  "references": [],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": false,
+  "defineConstraints": [
+    "UNITY_2022_2_OR_NEWER"
+  ],
+  "versionDefines": [],
+  "noEngineReferences": true,
+  "isRoslynAnalyzer": true
+}

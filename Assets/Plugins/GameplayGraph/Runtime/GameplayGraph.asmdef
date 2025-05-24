@@ -1,6 +1,7 @@
 {
   "name": "GameplayGraph",
   "references": [],
+  "sourceGenerators": ["GameplayGraph.Generator"],
   "includePlatforms": [],
   "excludePlatforms": []
 }

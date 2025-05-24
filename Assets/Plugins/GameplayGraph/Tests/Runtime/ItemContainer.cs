@@ -3,7 +3,7 @@ namespace GameplayGraph
     /// <summary>
     /// Simple implementation of <see cref="ListContainer{T}"/> representing a list of items.
     /// </summary>
-    public class ItemContainer<T> : ListContainer<T>
+    public partial class ItemContainer<T> : ListContainer<T>
     {
         public ItemContainer(string slotTemplate = "item") : base(slotTemplate)
         {

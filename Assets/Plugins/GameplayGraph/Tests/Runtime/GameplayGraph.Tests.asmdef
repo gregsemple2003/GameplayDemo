@@ -1,5 +1,6 @@
 {
   "name": "GameplayGraph.Tests",
   "references": ["GameplayGraph"],
+  "sourceGenerators": ["GameplayGraph.Generator"],
   "testAssemblies": true
 }

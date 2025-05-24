@@ -1,9 +1,11 @@
-namespace GameplayGraph
+using GameplayGraph;
+
+namespace GameplayGraph.Tests
 {
     /// <summary>
     /// Simple container of floating point stats.
     /// </summary>
-    public class StatsContainer : PropertyContainer<float>
+    public partial class StatsContainer : PropertyContainer<float>
     {
         [ContainerProperty("strength")]
         public float Strength { get; set; }
